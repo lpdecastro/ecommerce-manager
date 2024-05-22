@@ -38,7 +38,7 @@ customer and seller management, product catalog, shopping cart, and order proces
 ## 4 - API Endpoints
 
 You can view the full API documentation here: 
-[E-Commerce Manager](http://localhost:8080/postman)
+[E-Commerce Manager](https://documenter.getpostman.com/view/31412288/2sA3QniaEC)
 
 ### Authentication
 - `POST /.rest/auth/register/customer`: Register customer
