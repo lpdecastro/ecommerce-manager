@@ -212,3 +212,5 @@ app.jwt.expiration-in-ms=3600000
 - **Maven**: For project build and dependency management.
 
 ## 8 - Other Projects
+Check out my other projects:
+- [Job Manager](https://github.com/lpdecastro/job-manager)
